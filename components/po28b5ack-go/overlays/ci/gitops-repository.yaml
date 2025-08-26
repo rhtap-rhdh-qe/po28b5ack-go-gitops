@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: po28b5ack-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/po28b5ack-go-gitops
